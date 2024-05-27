@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "__bit_reference": "c",
+        "ios": "c",
+        "bitset": "c",
+        "__memory": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "locale": "c",
+        "algorithm": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
